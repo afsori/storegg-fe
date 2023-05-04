@@ -138,7 +138,7 @@ function EditProfile() {
             <div className="bg-card pt-30 ps-30 pe-30 pb-30">
                 <form action="">
                     <div className="photo d-flex">
-                        <div className="position-relative me-20">
+                            <div className="position-relative me-20">
                             <img src="/img/avatar-1.png" width="90" height="90" className="avatar img-fluid" />
                             <div
                                 className="avatar-overlay position-absolute top-0 d-flex justify-content-center align-items-center">
